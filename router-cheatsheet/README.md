@@ -2,6 +2,8 @@
 
 ## Description
 
+Based on the yt tutorial Dave Grey. Video is outdated, but the concept of the website is right for the project. Read the documentation listed in "Useful links" section
+
 ## Useful links
 
 # react router
