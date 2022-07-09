@@ -18,3 +18,14 @@ https://v5.reactrouter.com/web/guides/quick-start
 
 https://www.npmjs.com/package/date-fns
 https://date-fns.org/docs/Getting-Started
+
+# axios
+
+https://www.npmjs.com/package/axios
+
+# json-server
+
+https://www.npmjs.com/package/json-server
+
+-   to lunch, use npx json-server -p 3500 -w data/db.json
+-   remember that "w" stand for watch, so make sure that you are linking to good json file
