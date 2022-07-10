@@ -23,6 +23,12 @@
       "title": "IGI style",
       "datetime": "July 09, 2022 11:46:32 AM",
       "body": "test posts desc123"
+    },
+    {
+      "id": 7,
+      "title": "React is super",
+      "datetime": "July 10, 2022 11:26:57 PM",
+      "body": "dasdas again saying: React is super !!1"
     }
   ]
 }
