@@ -29,3 +29,12 @@ https://www.npmjs.com/package/json-server
 
 -   to lunch, use npx json-server -p 3500 -w data/db.json
 -   remember that "w" stand for watch, so make sure that you are linking to good json file
+
+# react Custom Hooks
+
+https://nikgraf.github.io/react-hooks/
+https://www.npmjs.com/package/react-use
+
+# react-icons
+
+https://react-icons.github.io/react-icons/
