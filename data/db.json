@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "My First Post",
-      "datetime": "July 01, 2021 11:17:36 AM",
-      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
-    },
-    {
       "id": 2,
       "title": "My 2nd Post",
       "datetime": "July 01, 2021 11:17:36 AM",
@@ -29,6 +23,12 @@
       "title": "React is super",
       "datetime": "July 10, 2022 11:26:57 PM",
       "body": "dasdas again saying: React is super !!1"
+    },
+    {
+      "id": 8,
+      "title": "ReactStrictMode",
+      "datetime": "July 11, 2022 11:51:32 AM",
+      "body": "is Broken !!!!!!!!\nAnd it's annoying ...\nHope they will fix that"
     }
   ]
 }
