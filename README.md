@@ -38,3 +38,7 @@ https://www.npmjs.com/package/react-use
 # react-icons
 
 https://react-icons.github.io/react-icons/
+
+# Easy Peasy Redux
+
+https://easy-peasy.vercel.app
